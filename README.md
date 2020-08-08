@@ -204,3 +204,4 @@ TODO
     Copyright (c) 2014-2015 Martin Micunda  
 
     Source code is open source and released under the GNU GPL v3 license.
+[![Run on Repl.it](https://repl.it/badge/github/martinmicunda/employee-scheduling-ui)](https://repl.it/github/martinmicunda/employee-scheduling-ui)
